@@ -27,6 +27,7 @@ Node.js ile neler yapılabilir:
   ** Akıllı ev teknolojileri
   
  Thread: Birden fazla işlemin tek bir akışı paylaşarak neredeyse eşzamanlı bir şekilde gerçekleşmesini sağlar.
+ 
  Single-thread: Aynı anda sadece tek bir işlem yapılabilmesidir. 
  
  Event-Driven: Asenkron özelliği, işlemlerin birbirini beklemediği çalışma türüdür. Bu sayede işlem sırası olaya göre belirlenir. Olayların birbirlerini ilgilendirmemesi yani bloklamaması durumuna Non-Bloking denir.
