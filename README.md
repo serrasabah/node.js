@@ -40,3 +40,4 @@ referanslar:
 https://teknotower.com/nodejs-nedir-nerelerde-kullanilir/
 https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm
 https://app.patika.dev/moduller/nodejs/WhatIsNodeJS
+https://www.gencayyildiz.com/blog/event-driven-non-blocking-ve-node-js-nedir/
