@@ -19,6 +19,7 @@ Node.js ile neler yapılabilir:
 * Müzik çalar
 * Görüntülü grup sohbetleri
 * Slayt gösterisi sunumu
+* Sosyal medya uygulamaları
 * Gerçek zamanlı uygulamalar:
   ** Uzaktan kumandalı araba,
   ** Giyilebilir cihazlar
