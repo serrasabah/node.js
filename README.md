@@ -25,7 +25,7 @@ Node.js ile neler yapılabilir:
   ** Giyilebilir cihazlar
   ** Akıllı ev teknolojileri
   
-  'Patika.dev sitesinden okuduğum örnek, konunun temel bir özetini anlatarak Node.js'yi anlamamızı kolaylaştırır.'
+  'Patika.dev sitesinden okuduğum örnek, konunun temel bir özetini anlatarak Node.js'yi anlamamızı kolaylaştırabilir.'
   
   _Çalışma ortamımızın bir restoran olduğunu düşünelim ve bu restoranımızda tek başına çalışan ve doğal olarak aynı anda tek bir iş yapabilicek **single thread** bir garson arkadaşımız olsun. Bu garson arkadaşımız bir masadan sipariş aldıktan sonra orada beklemez değil mi? İlgili siparişi mutfak tarafında bildirdikten sonra başka masalara bakabilir **non blocking**. Başka masadan da sipariş aldıktan sonra bir diğer masayı düzenleyebileceği gibi olay sırasına göre yeni müşterileri de karşılayabilir **event-driven**._
 
