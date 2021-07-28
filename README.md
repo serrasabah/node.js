@@ -1,5 +1,6 @@
 # node.js
 
+JavaScript ile Back-End servisler yazabilmemizi sağlayan bir JavaScript Runtime platformudur.
 Node.js tarayıcılara ihtiyaç duymadan heryerde çalışabilir. Bu sayede Javascript kodlarını kullanmak için tarayıcı kısıtlamalarıyla karşılaşmayız.
 Node.js olay odaklıdır(event-driven), iş akışını engellemez. İşlemler birbirini beklemeden diğer olayı işleme alabilir yani işlem sırası olaya göre belirlenir.
 
@@ -24,6 +25,11 @@ Node.js ile neler yapılabilir:
   ** Uzaktan kumandalı araba,
   ** Giyilebilir cihazlar
   ** Akıllı ev teknolojileri
+  
+ Thread: Birden fazla işlemin tek bir akışı paylaşarak neredeyse eşzamanlı bir şekilde gerçekleşmesini sağlar.
+ Single-thread: Aynı anda sadece tek bir işlem yapılabilmesidir. 
+ 
+ Event-Driven: Asenkron özelliği, işlemlerin birbirini beklemediği çalışma türüdür. Bu sayede işlem sırası olaya göre belirlenir. Olayların birbirlerini ilgilendirmemesi yani bloklamaması durumuna Non-Bloking denir.
   
   'Patika.dev sitesinden okuduğum örnek, konunun temel bir özetini anlatarak Node.js'yi anlamamızı kolaylaştırabilir.'
   
