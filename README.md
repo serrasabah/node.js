@@ -17,12 +17,13 @@ Node.js kullanıldığı yerler:
 Node.js ile neler yapılabilir:
 -Çok oyunculu oyun
 -Müzik çalar
+-Görüntülü grup sohbetleri
+-Slayt gösterisi sunumu
 -Gerçek zamanlı uygulamalar:
   * Uzaktan kumandalı araba,
   * Giyilebilir cihazlar
   * Akıllı ev teknolojileri
--Görüntülü grup sohbetleri
--Slayt gösterisi sunumu
+
 
 referanslar:
 https://teknotower.com/nodejs-nedir-nerelerde-kullanilir/
